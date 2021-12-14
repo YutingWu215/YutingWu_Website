@@ -38,10 +38,9 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '/#contact'
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-  label: Follow me on Twitter
+- icon: instagram
+  icon_pack: fas
+  link: https://instagram.com/yutingwu215?utm_medium=copy_link2
   display:
     header: true
 - icon: github
