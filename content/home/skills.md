@@ -23,7 +23,7 @@ feature:
 - description: 100%
   icon: chart-line
   icon_pack: fas
-  name: Adobe Audition
+  name: Adobe Premiere
 - description: 100%
   icon: camera-retro
   icon_pack: fas
