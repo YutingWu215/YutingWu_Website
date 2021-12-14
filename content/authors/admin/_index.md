@@ -65,8 +65,10 @@ email: ""
 highlight_name: true
 ---
 
-Alice Bighetti is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Yuting Wu began her study in the United States after getting admitted by the George Washington University (GWU) in 2017. She is pursuing a degree in Journalism and Mass Communication at School of Media and Public Affairs at GWU. She took a gap year during the COVID-19 pandemic from Fall 2020 to Spring 2021.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Yuting is passionate about the arts and media-related work. Her three-year experience as the president of her high school's drama club made her value teamwork as well. As the single child in her family, she likes to spend her time watching movies, playing the piano, the guzheng, and the guitar, and walking her two dogs, a Poodle and a Bichon Frise, when she is at home.
+
+She started her personal channel on Xiaohongshu, a Chinese social media platform, in December 2018. Through learning video production techniques in class, she loves making videos, especially vlogs. Positive comments from her followers are her biggest motivation to run her channel. Yuting thinks making videos is not only about gaining followers, but it is also a meaningful way to transfer positive attitudes to people. She wishes she could create something special and meaningful on this media platform in the future.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.

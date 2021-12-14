@@ -16,18 +16,18 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-- description: 90%
+- description: 100%
   icon: angel
   icon_pack: fas
-  name: R
+  name: R Studio
 - description: 100%
   icon: chart-line
   icon_pack: fas
-  name: Statistics
-- description: 10%
+  name: Adobe Audition
+- description: 100%
   icon: camera-retro
   icon_pack: fas
-  name: g
+  name: Adobe Audition
 
 # Uncomment to use emoji icons.
 #- icon: ':smile:'
