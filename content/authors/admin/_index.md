@@ -38,7 +38,7 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '/#contact'
-- icon: instagram
+- icon: github
   icon_pack: fas
   link: https://instagram.com/yutingwu215?utm_medium=copy_link2
   display:
