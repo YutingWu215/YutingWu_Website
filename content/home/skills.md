@@ -17,7 +17,7 @@ subtitle:
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
 - description: 100%
-  icon: <i class="fa-duotone fa-browser"></i>
+  icon: f37e
   icon_pack: fas
   name: R Studio
 - description: 100%
