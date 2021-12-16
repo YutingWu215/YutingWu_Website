@@ -17,7 +17,7 @@ subtitle:
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
 - description: 100%
-  icon: internet-explorer
+  icon: camera-retro
   icon_pack: fas
   name: R Studio
 - description: 100%
