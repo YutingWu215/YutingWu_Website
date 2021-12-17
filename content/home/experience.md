@@ -22,28 +22,31 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
+  - title: Production Assistant 
+    company: Shanghai Media Group
     company_url: ''
-    company_logo: org-gc
-    location: California
-    date_start: '2021-01-01'
+    location: Shanghai
+    date_start: '2019-07-01'
     date_end: ''
     description: |2-
         Responsibilities include:
         
-        * Analysing
-        * Modelling
-        * Deploying
+        * Assisted in the whole production process of program Money Talk, including news collecting, scripts drafting, studio recording and editing
+        * Conducted qualitative research on audience feedback and produced reports on how different media platforms (social media, television and print media) influence audience behaviors
+        * Delivered a group presentation to the department leader and colleagues to share insights and received high marks
         
-  - title: Professor of Semiconductor Physics
-    company: University X
+   - title: Publicity Assistant
+    company: Mercedes-Benz China
     company_url: ''
-    company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+    location: Shanghai
+    date_start: '2019-05-01'
+    date_end: ''
+    description: |2-
+        Responsibilities include:
+        
+        * Assisted the publicity department in designing promotional plan for new automobiles launch
+        * Produced and designed materials for social media, created videos for marketing, and planned launching events that significantly increased the sales of Q2 2019 
+        * Communicated with the customer service department on publicity writing
 
 design:
   columns: '2'
