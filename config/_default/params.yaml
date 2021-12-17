@@ -20,13 +20,13 @@ twitter: ''
 
 # Contact (edit or remove options as required)
 
-email: test@example.org
-phone: 888 888 88 88
+email: yuting215@gwu.edu
+phone: 703 228 94 76
 address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
-  postcode: '94305'
+  street: 2121 H St NW
+  city: Washington
+  region: DC
+  postcode: '20052'
   country: United States
   country_code: US
 coordinates:
@@ -34,14 +34,14 @@ coordinates:
   longitude: '-122.1697'
 appointment_url: 'https://calendly.com'
 contact_links:
-  - icon: twitter
+  - icon:  linkedin
     icon_pack: fab
     name: DM Me
-    link: 'https://twitter.com/Twitter'
-  - icon: skype
-    icon_pack: fab
-    name: Skype Me
-    link: 'skype:echo123?call'
+    link: 'https://www.linkedin.com/in/yuting-wu-831a5b180'
+  - icon:  camera-retro
+    icon_pack: fas
+    name: For More Info
+    link: 'https://yuting215.wixsite.com/yutingwu'
 
 # Site header
 
