@@ -29,11 +29,11 @@ experience:
     date_start: '2019-07-01'
     date_end: ''
     description: |2-
-        Responsibilities include:
+        Responsibilities include:|2-
         
-        * Assisted in the whole production process of program Money Talk, including news collecting, scripts drafting, studio recording and editing
-        * Conducted qualitative research on audience feedback and produced reports on how different media platforms (social media, television and print media) influence audience behaviors
-        * Delivered a group presentation to the department leader and colleagues to share insights and received high marks
+        * Assisted in the whole production process of |2- program Money Talk, including news collecting, scripts |2- drafting, studio recording and editing |2-
+        * Conducted qualitative research on audience |2- feedback and produced reports on how different media |2- platforms (social media, television and print media) |2- influence audience behaviors
+        * Delivered a group presentation to the department |2- leader and colleagues to share insights and received high |2- marks
         
    - title: Publicity Assistant
     company: Mercedes-Benz China
@@ -44,8 +44,8 @@ experience:
     description: |2-
         Responsibilities include:
         
-        * Assisted the publicity department in designing promotional plan for new automobiles launch
-        * Produced and designed materials for social media, created videos for marketing, and planned launching events that significantly increased the sales of Q2 2019 
-        * Communicated with the customer service department on publicity writing
+        * Assisted the publicity department in designing |2- promotional plan for new automobiles launch |2-
+        * Produced and designed materials for social media,|2-  created videos for marketing, and planned launching events|2- that significantly increased the sales of Q2 2019|2- 
+        * Communicated with the customer service department|2- on publicity writing
 
 ---
