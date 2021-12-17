@@ -48,6 +48,4 @@ experience:
         * Produced and designed materials for social media, created videos for marketing, and planned launching events that significantly increased the sales of Q2 2019 
         * Communicated with the customer service department on publicity writing
 
-design:
-  columns: '2'
 ---
