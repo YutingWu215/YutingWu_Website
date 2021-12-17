@@ -42,9 +42,9 @@ experience:
     date_start: '2019-7-1'
     date_end: ''
     description:
-    •	Assisted in the whole production process of program Money Talk, including news collecting, scripts drafting, studio recording and editing
-    •	Conducted qualitative research on audience feedback and produced reports on how different media platforms (social media, television and print media) influence audience behaviors
-    •	Delivered a group presentation to the department leader and colleagues to share insights and received high marks
+    -	Assisted in the whole production process of program Money Talk, including news collecting, scripts drafting, studio recording and editing
+    -	Conducted qualitative research on audience feedback and produced reports on how different media platforms (social media, television and print media) influence audience behaviors
+    - Delivered a group presentation to the department leader and colleagues to share insights and received high marks
 
 
   - title: Publicity Assistant
@@ -54,9 +54,9 @@ experience:
     date_start: '2019-5-1'
     date_end: ''
     description:
-    •	Assisted the publicity department in designing promotional plan for new automobiles launch
-    •	Produced and designed materials for social media, created videos for marketing, and planned launching events that significantly increased the sales of Q2 2019 
-    •	Communicated with the customer service department on publicity writing
+    -	Assisted the publicity department in designing promotional plan for new automobiles launch
+    - Produced and designed materials for social media, created videos for marketing, and planned launching events that significantly increased the sales of Q2 2019 
+    -	Communicated with the customer service department on publicity writing
 
 design:
   columns: '2'
